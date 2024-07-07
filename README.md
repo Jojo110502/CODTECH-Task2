@@ -5,15 +5,28 @@ Domain: Web Development
 Duration: June to July 2024
 Mentor: SRAVANI GOUNI
 
-## Task 2
-Weather Forecast Website
+E-Commerce Website
 ### Overview of the Project
-This project utilizes the OpenWeatherMap API to fetch real-time weather data and dynamically update the UI based on the weather conditions.
-Here are the key features:
+Welcome to the E-Commerce Website! This application allows users to browse products, register and login to purchase items, and manage their orders. The system is built using a simple frontend using HTML, CSS, and JavaScript.
 
-User-Friendly Interface: A simple, clean UI that allows users to enter a city name and get current weather details.
-Real-Time Data: Fetches weather data from the OpenWeatherMap API.
-Dynamic Background: Changes the background image based on the current weather condition (clear, cloudy, rainy, snowy, etc.).
-Error Handling: Displays appropriate messages for invalid city names or network errors.
+## Project: E-Commerce Website
 
+## Table of Contents
+Features
+Frontend Setup
+Technologies Used
+
+## Features
+Browse and search for products
+Add products to cart and checkout
+View and manage orders
+
+## Frontend SetUp
+Simply open the home.html file in a browser.
+
+## Technologies Used
+### Frontend:
+HTML
+CSS
+JavaScript
 
